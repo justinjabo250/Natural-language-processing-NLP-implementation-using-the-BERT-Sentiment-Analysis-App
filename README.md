@@ -1,10 +1,11 @@
-# Sentiment Analysis with Finetuned Models
+# 🚀 Natural language processing NLP implementation using the BERT Sentiment Analysis App. 🚀
 
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
-[![Medium Article](https://img.shields.io/badge/Medium-Article-purple)](https://medium.com/@emmanuel.ikogho/sentiment-analysis-with-finetuned-models-aef6ed52ace3)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/Sentiment-analysis-WebApp)
-[![Gradio App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/sentiment-Classifier-App-Gradio)
-[![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://emmanuelikogho.netlify.app/)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
+[![Medium Article](https://img.shields.io/badge/Medium-Article-purple)](https://medium.com/@jabojustin250)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/Sentiment-Analysis-Application-Using-Streamlit)
+[![Gradio App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/Justin-J/Sentiment-Analysis-App-using-Gradio)
+
 
 ![Fashion Model Content Fashion(1)](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models/assets/102419217/dabc75ec-e328-4bd5-b39e-91c85c5b06bf)
 
@@ -82,4 +83,4 @@ If you found this article helpful, please give it a clap or a star on GitHub!
 
 ## Author
 
-- [Emmanuel Ikogho](https://www.linkedin.com/in/emmanuel-ikogho-6b959b24b/)
+- [Justin Jabo](https://www.linkedin.com/in/jabo-justin-2815341a2/)
