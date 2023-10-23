@@ -5,6 +5,8 @@
 [![Medium Article](https://img.shields.io/badge/Medium-Article-purple)](https://medium.com/@jabojustin250)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/Sentiment-Analysis-Application-Using-Streamlit)
 [![Gradio App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/Justin-J/Sentiment-Analysis-App-using-Gradio)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-darkgreen)](https://github.com/justinjabo250)
 
 
 <img src="https://user-images.githubusercontent.com/115732734/271723332-6c824e95-5e2f-48ec-af1c-b66ac7db1d7a.jpeg" width="550">
