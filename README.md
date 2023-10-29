@@ -1,7 +1,7 @@
 # 🚀 Natural language processing NLP implementation using the BERT Sentiment Analysis App. 🚀
 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/pulse/natural-language-processing-nlp-implementation-using-bert-jabo-justin-2zjsf) 
 [![Medium Article](https://img.shields.io/badge/Medium-Article-purple)](https://medium.com/@jabojustin250/natural-language-processing-nlp-implementation-using-the-bert-sentiment-analysis-app-12b98fc8a300)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/Sentiment-Analysis-Application-Using-Streamlit)
 [![Gradio App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/Justin-J/Sentiment-Analysis-App-using-Gradio)
